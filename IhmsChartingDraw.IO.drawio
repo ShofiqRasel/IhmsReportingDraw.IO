@@ -196,10 +196,16 @@
           <mxGeometry x="3170" y="1290" width="320" height="120" as="geometry" />
         </mxCell>
         <mxCell id="_li1lUW6P8k7EiyVsJMC-790" value="" style="image;html=1;image=img/lib/clip_art/finance/Pie_Chart_128x128.png" vertex="1" parent="1">
-          <mxGeometry x="2590" y="1490" width="170" height="118" as="geometry" />
+          <mxGeometry x="2630" y="1525" width="136" height="83" as="geometry" />
         </mxCell>
         <mxCell id="_li1lUW6P8k7EiyVsJMC-791" value="" style="shape=image;html=1;verticalAlign=top;verticalLabelPosition=bottom;labelBackgroundColor=#ffffff;imageAspect=0;aspect=fixed;image=https://cdn0.iconfinder.com/data/icons/business-startup-10/50/54-128.png" vertex="1" parent="1">
-          <mxGeometry x="2380" y="1480" width="128" height="128" as="geometry" />
+          <mxGeometry x="2430" y="1530" width="78" height="78" as="geometry" />
+        </mxCell>
+        <mxCell id="_li1lUW6P8k7EiyVsJMC-792" value="" style="shape=image;html=1;verticalAlign=top;verticalLabelPosition=bottom;labelBackgroundColor=#ffffff;imageAspect=0;aspect=fixed;image=https://cdn4.iconfinder.com/data/icons/essentials-74/24/018_-_Chart-128.png" vertex="1" parent="1">
+          <mxGeometry x="2910" y="1510" width="98" height="98" as="geometry" />
+        </mxCell>
+        <mxCell id="_li1lUW6P8k7EiyVsJMC-793" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0.859;entryY=0.547;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="_li1lUW6P8k7EiyVsJMC-792" target="_li1lUW6P8k7EiyVsJMC-792">
+          <mxGeometry relative="1" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
